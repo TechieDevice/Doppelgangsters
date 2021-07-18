@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "USqurVXshyR9Ow7GyHHuJxGMugiO/7ojEChwqYqlyZFv40THqyEb3/aP7v2l1VL/9VA3SdZXsV5iDzUjWfUKHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aveng\\source\\repos\\Doppelgangsters\\Doppelgangsters.Server\\Doppelgangsters.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aveng\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.8\\microsoft.data.sqlite.core.5.0.8.nupkg.sha512",
+    "C:\\Users\\aveng\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\aveng\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Doppelgangsters.Pages"
+             x:Class="Doppelgangsters.Pages.LoginPage">
+    
+    <ContentPage.Content>
+        <StackLayout x:Name="MainLayout" BackgroundColor="Black">
+            <Frame BackgroundColor="DarkGreen" Padding="30" CornerRadius="0">
+                <Label Text="ДОППЕЛЬГАНГСТЕРЫ" HorizontalTextAlignment="Center" TextColor="White" FontSize="28"/>
+            </Frame>
+            <StackLayout x:Name="LoginInterface" Padding="30">
+                <Label FontSize="16" Text="Введите имя игрока" TextColor="White" VerticalOptions="Center"/>
+                <Entry x:Name="UserNameBox" 
+                       BackgroundColor="#202020" 
+                       TextColor="White" 
+                       HorizontalOptions="FillAndExpand"/>
+                <Button x:Name="ConnectButton" 
+                        Text="Войти" 
+                        TextColor="White"
+                        BackgroundColor="DarkGreen"
+                        FontSize="18"
+                        Clicked="ConnectButtonClick"/>
+                <Label x:Name="ErrorLabel" IsVisible="false" FontSize="16" Text="" TextColor="OrangeRed" VerticalOptions="Center"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

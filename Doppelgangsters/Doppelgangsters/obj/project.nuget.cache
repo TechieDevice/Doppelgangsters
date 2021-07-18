@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ruKLotyRP7LdTBYvDNzwxbHAPHrb8X47oCDehYYFi8enAdIQQBBKuV0S+W8QgMLZXE5zmVQ28Z5u1d9Hxj9IIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aveng\\source\\repos\\Doppelgangsters\\Doppelgangsters\\Doppelgangsters\\Doppelgangsters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aveng\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aveng\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\aveng\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

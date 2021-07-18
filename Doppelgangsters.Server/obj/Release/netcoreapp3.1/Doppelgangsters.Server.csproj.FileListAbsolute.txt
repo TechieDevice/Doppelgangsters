@@ -1,0 +1,16 @@
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\bin\Release\netcoreapp3.1\Doppelgangsters.Server.exe
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\bin\Release\netcoreapp3.1\Doppelgangsters.Server.deps.json
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\bin\Release\netcoreapp3.1\Doppelgangsters.Server.runtimeconfig.json
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\bin\Release\netcoreapp3.1\Doppelgangsters.Server.runtimeconfig.dev.json
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\bin\Release\netcoreapp3.1\Doppelgangsters.Server.dll
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\bin\Release\netcoreapp3.1\Doppelgangsters.Server.pdb
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\bin\Release\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\obj\Release\netcoreapp3.1\Doppelgangsters.Server.csproj.AssemblyReference.cache
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\obj\Release\netcoreapp3.1\Doppelgangsters.Server.AssemblyInfoInputs.cache
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\obj\Release\netcoreapp3.1\Doppelgangsters.Server.AssemblyInfo.cs
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\obj\Release\netcoreapp3.1\Doppelgangsters.Server.csproj.CoreCompileInputs.cache
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\obj\Release\netcoreapp3.1\Doppelgangsters.Server.csproj.CopyComplete
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\obj\Release\netcoreapp3.1\Doppelgangsters.Server.dll
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\obj\Release\netcoreapp3.1\Doppelgangsters.Server.pdb
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters.Server\obj\Release\netcoreapp3.1\Doppelgangsters.Server.genruntimeconfig.cache

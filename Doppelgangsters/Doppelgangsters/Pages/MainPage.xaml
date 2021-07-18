@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Doppelgangsters.Pages.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout x:Name="MainLayout" BackgroundColor="Black">
+            <Frame BackgroundColor="DarkGreen" Padding="30" CornerRadius="0">
+                <Label Text="ДОППЕЛЬГАНГСТЕРЫ" HorizontalTextAlignment="Center" TextColor="White" FontSize="32"/>
+            </Frame>
+            <StackLayout Padding="30">
+                <Label FontSize="16" Text="Введите код комнаты для подключения или создайте новую" TextColor="White" VerticalOptions="Center"/>
+                <Entry x:Name="RoomCodeBox" 
+                       BackgroundColor="#202020" 
+                       TextColor="White" 
+                       HorizontalOptions="FillAndExpand"/>
+                <Button x:Name="ConnectToRoomButton" 
+                        Text="Подключиться к команате" 
+                        TextColor="White"
+                        BackgroundColor="DarkGreen"
+                        FontSize="18"
+                        Clicked="ConnectToRoomButtonClick"/>
+                <Button x:Name="CreateRoomButton" 
+                        Text="Создать комнату" 
+                        TextColor="White"
+                        BackgroundColor="DarkGreen"
+                        FontSize="18"
+                        Clicked="CreateRoomButtonClick"/>
+            </StackLayout>
+            <StackLayout Padding="30">
+                <Label x:Name="ErrorLabel" IsVisible="false" FontSize="16" Text="" TextColor="OrangeRed" VerticalOptions="Center"/>
+                <Button x:Name="DisconnectButton" 
+                        Text="Разлогиниться"
+                        TextColor="White"
+                        BackgroundColor="DarkGreen"
+                        FontSize="18"
+                        Clicked="DisconnectButtonClick"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

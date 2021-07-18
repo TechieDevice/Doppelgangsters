@@ -1,0 +1,16 @@
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\bin\Debug\netstandard2.0\Doppelgangsters.deps.json
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\bin\Debug\netstandard2.0\Doppelgangsters.dll
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\bin\Debug\netstandard2.0\ref\Doppelgangsters.dll
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\bin\Debug\netstandard2.0\Doppelgangsters.pdb
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\obj\Debug\netstandard2.0\Doppelgangsters.AssemblyInfoInputs.cache
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\obj\Debug\netstandard2.0\Doppelgangsters.AssemblyInfo.cs
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\obj\Debug\netstandard2.0\Doppelgangsters.csproj.CoreCompileInputs.cache
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\obj\Debug\netstandard2.0\Doppelgangsters.dll
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\obj\Debug\netstandard2.0\ref\Doppelgangsters.dll
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\obj\Debug\netstandard2.0\Doppelgangsters.pdb
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\obj\Debug\netstandard2.0\Pages\LoginPage.xaml.g.cs
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\obj\Debug\netstandard2.0\Pages\MainPage.xaml.g.cs
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\obj\Debug\netstandard2.0\Doppelgangsters.csproj.AssemblyReference.cache
+C:\Users\aveng\source\repos\Doppelgangsters\Doppelgangsters\Doppelgangsters\obj\Debug\netstandard2.0\Pages\RoomPage.xaml.g.cs
